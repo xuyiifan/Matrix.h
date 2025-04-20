@@ -1,7 +1,7 @@
 #ifndef _MATRIX_GROW_H
 #define _MATRIX_GROW_H
 
-#include "MatrixDetailBase.h"
+#include "MatrixBase.h"
 
 
 

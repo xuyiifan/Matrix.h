@@ -1,7 +1,7 @@
 #ifndef _MATRIX_DIVIDE_H
 #define _MATRIX_DIVIDE_H
 
-#include "MatrixDetailBase.h"
+#include "MatrixBase.h"
 #include <float.h>
 #include <tgmath.h>
 #include <string.h>

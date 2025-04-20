@@ -1,7 +1,7 @@
 #ifndef _MATRIX_XT_H
 #define _MATRIX_XT_H
 
-#include "MatrixDetailBase.h"
+#include "MatrixBase.h"
 
 
 
