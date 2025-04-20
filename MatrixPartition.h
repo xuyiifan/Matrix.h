@@ -1,7 +1,7 @@
 #ifndef _MATRIX_PARTITION_H
 #define _MATRIX_PARTITION_H
 
-#include "MatrixBase.h"
+#include "MatrixDetailBase.h"
 
 
 

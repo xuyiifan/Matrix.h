@@ -1,7 +1,7 @@
 #ifndef _MATRIX_TRIVIAL_CALL_H
 #define _MATRIX_TRIVIAL_CALL_H
 
-#include "MatrixXT.h"
+#include "MatrixDetailTrivial.h"
 
 
 
