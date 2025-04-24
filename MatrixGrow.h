@@ -4,7 +4,7 @@
 #include "MatrixBase.h"
 
 
-
+/* Replaceable Name */
 #define _Mgr(...) \
     (_MATRIX_COM, _MATRIX_GRO, __VA_ARGS__)
 

@@ -1,10 +1,10 @@
 #ifndef _MATRIX_TRIVIAL_CALL_H
 #define _MATRIX_TRIVIAL_CALL_H
 
-#include "MatrixDetailTrivial.h"
+#include "MatrixXT.h"
 
 
-
+/* Replaceable Name */
 #define _Mcl(...) \
     (_MATRIX_COM, _MATRIX_CAL, __VA_ARGS__,)
 
